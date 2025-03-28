@@ -2,10 +2,11 @@ import os
 import subprocess
 import ollama
 
-
-
 # Clone the repository
 def clone_repo(repo_url, local_path):
+    if os.path.exists(local_path):
+        print(f"Directory {local_path} already exists. Skipping cloning.")
+        return
     subprocess.run(["git", "clone", repo_url, local_path])
 
 # Split a large C file into logical sections
@@ -26,8 +27,9 @@ def translate_c_to_python(c_code_chunk):
     Python Code:"""
     
     ollama_client = ollama.Client()
-    response = ollama_client.query(prompt)
-    return response.choices[0].text.strip()
+    response = ollama_client.generate(prompt=prompt, model="qwen2.5:0.5b")
+    print(response)
+    return response['response'].strip()  # Changed this line to access the response directly
 
 # Process and translate large files
 def process_large_c_file(c_file_path, output_dir):

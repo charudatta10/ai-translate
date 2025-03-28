@@ -12,7 +12,7 @@
 ![project](https://flat.badgen.net///static/project/ai-translate)
 
 <!-- Badges: Tools used -->
-`python` `olllama` 
+`python` `olllama`
 
 ## Documentation
 
@@ -20,8 +20,7 @@ translate code from one programming language to another
 
 ## Features
 
-- translates github repos 
-
+- translates github repos
 
 ## Getting Started
 
