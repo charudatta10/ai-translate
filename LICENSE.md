@@ -1,6 +1,6 @@
 # **License Agreement**
 
-© 2025 Charudatta Korde. Some Rights Reserved. Full attribution required.
+© 2025 Charudatta Korde. Some Rights Reserved. Attribution Required. Non-Commercial Use & Share-Alike.
 
 ## 1. **Definitions**
 
