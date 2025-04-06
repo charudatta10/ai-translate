@@ -22,7 +22,7 @@
 
 ## Documentation
 
-translate code from one programming language to another  
+translate code from one programming language to another
 
 ## Features
 
@@ -50,7 +50,7 @@ invoke
 
 ## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request for any bugs or feature requests.  
+Contributions are welcome! Please open an issue or submit a pull request for any bugs or feature requests.
 [Report a bug or Request a feature](https://github.com/charudatta10/ai-translate/issues)
 
 ## COPYRIGHT NOTICE
