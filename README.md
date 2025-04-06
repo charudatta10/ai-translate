@@ -11,6 +11,12 @@
 [![work](https://flat.badgen.net//static/portfolio/%F0%9F%96%BF)](https://charudatta10.github.io/myblog/)
 ![project](https://flat.badgen.net///static/project/ai-translate)
 
+![example workflow](https://github.com/charudatta10/ai-translate/actions/workflows/static.yml/badge.svg)
+![Coverage](https://img.shields.io/badge/Coverage-83%25-brightgreen.svg)
+![build](https://flat.badgen.net/github/checks/charudatta10/ai-translate)
+![test-coverage](https://flat.badgen.net/codecov/c/github/charudatta10/ai-translate)
+![documentation](https://flat.badgen.net/badge/docs/online/blue)
+
 <!-- Badges: Tools used -->
 `python` `olllama`
 
@@ -47,11 +53,9 @@ invoke
 Contributions are welcome! Please open an issue or submit a pull request for any bugs or feature requests.
 [Report a bug or Request a feature](https://github.com/charudatta10/ai-translate/issues)
 
-## Copyright Notice
+## COPYRIGHT NOTICE
 
-**`Some Rights Reserved © 2025 Charudatta Korde.`**
+Some Rights Reserved © 2025 Charudatta Korde.
 This work and its derivatives may only be used with full attribution to the original author.
 Any unauthorized commercial use is strictly prohibited.
 For complete details, refer to the accompanying License Agreement.
-
-<!-- Acknowledgment, References, Misc -->
