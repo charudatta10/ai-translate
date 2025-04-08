@@ -1,66 +1,66 @@
 # Welcome to AI-TRANSLATE
 
-## **Breaking Language Barriers with AI-Powered Precision**  
+**Breaking Language Barriers with AI-Powered Precision**
 
 **AI-TRANSLATE empowers seamless communication by converting code and text across languages with unmatched accuracy and efficiency.**
 
 ---
 
-### **About Us**  
+### **About Us**
 
-**Our Mission**  
+**Our Mission**
 
 At AI-TRANSLATE, we leverage cutting-edge AI technologies like the Ollama DeepSeek agent combined with advanced prompt engineering techniques to seamlessly translate GitHub C repositories into Python. Our mission is to simplify cross-language code transformation, enabling developers to focus on innovation without language barriers.
 
 ---
 
-### **Our Features**  
+### **Our Features**
 
-- 🌟 **Feature One: Effortless Code Translation**  
+- 🌟 **Feature One: Effortless Code Translation**
     Translate entire GitHub C repositories into Python with precision and ease, saving countless hours of manual work.
 
-- 🚀 **Feature Two: AI-Powered Accuracy**  
+- 🚀 **Feature Two: AI-Powered Accuracy**
     Leverage advanced AI models to ensure translations are not only syntactically correct but also contextually accurate.
 
-- 💡 **Feature Three: Seamless Integration**  
+- 💡 **Feature Three: Seamless Integration**
     Integrate AI-TRANSLATE into your existing workflows with minimal setup, enhancing productivity and collaboration.
 
 ---
 
 ### **Why Choose Us?**
 
-> **Trusted by Developers Worldwide**  
+> **Trusted by Developers Worldwide**
     Thousands of developers rely on AI-TRANSLATE for accurate and efficient code translation.
 
-> **Proven Results**  
+> **Proven Results**
     Our AI-powered solutions have successfully transformed countless projects, saving time and resources.
 
-> **Continuous Innovation**  
+> **Continuous Innovation**
     We are committed to staying ahead of the curve by integrating the latest advancements in AI technology.
 
-> **Dedicated Support**  
+> **Dedicated Support**
     Our team is here to assist you every step of the way, ensuring a seamless experience.
 
 ---
 
 ---
 
-### **Call to Action**  
+### **Call to Action**
 
-**Ready to get started?**  
-👉 [Sign Up Now](https://example.com/signup)  
+**Ready to get started?**
+👉 [Sign Up Now](https://example.com/signup)
 👉 [Learn More](https://example.com/learn-more)
 
 ---
 
-### **Contact Us**  
+### **Contact Us**
 
-Feel free to reach out with any questions!  
-📧 Email: [Contact_me@](mailto:152109007c@gmail.com)  
+Feel free to reach out with any questions!
+📧 Email: [Contact_me@](mailto:152109007c@gmail.com)
 
 ---
 
-**Follow Us on Social Media:**  
+**Follow Us on Social Media:**
 
 - [LinkedIn](https://linkedin.com/company/example)
 
