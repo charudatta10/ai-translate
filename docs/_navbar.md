@@ -1,3 +1,3 @@
 - [Home](/)
-- [README](README.md)
-- [Reference](../README.md)
+- [README](../README.md)
+- [Reference](../lua-vm/README.md)
