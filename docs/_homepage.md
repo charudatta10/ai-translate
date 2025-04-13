@@ -6,15 +6,13 @@
 
 ---
 
-### **About Us**
-
-**Our Mission**
+## **About**
 
 At AI-TRANSLATE, we leverage cutting-edge AI technologies like the Ollama DeepSeek agent combined with advanced prompt engineering techniques to seamlessly translate GitHub C repositories into Python. Our mission is to simplify cross-language code transformation, enabling developers to focus on innovation without language barriers.
 
 ---
 
-### **Our Features**
+### **Features**
 
 - 🌟 **Feature One: Effortless Code Translation**
     Translate entire GitHub C repositories into Python with precision and ease, saving countless hours of manual work.
@@ -27,7 +25,7 @@ At AI-TRANSLATE, we leverage cutting-edge AI technologies like the Ollama DeepSe
 
 ---
 
-### **Why Choose Us?**
+### **Why?**
 
 > **Trusted by Developers Worldwide**
     Thousands of developers rely on AI-TRANSLATE for accurate and efficient code translation.
@@ -40,23 +38,6 @@ At AI-TRANSLATE, we leverage cutting-edge AI technologies like the Ollama DeepSe
 
 > **Dedicated Support**
     Our team is here to assist you every step of the way, ensuring a seamless experience.
-
----
-
----
-
-### **Call to Action**
-
-**Ready to get started?**
-👉 [Sign Up Now](https://example.com/signup)
-👉 [Learn More](https://example.com/learn-more)
-
----
-
-### **Contact Us**
-
-Feel free to reach out with any questions!
-📧 Email: [Contact_me@](mailto:152109007c@gmail.com)
 
 ---
 
