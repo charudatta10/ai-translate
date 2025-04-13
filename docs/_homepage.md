@@ -12,7 +12,7 @@ At AI-TRANSLATE, we leverage cutting-edge AI technologies like the Ollama DeepSe
 
 ---
 
-### **Features**
+## **Features**
 
 - 🌟 **Feature One: Effortless Code Translation**
     Translate entire GitHub C repositories into Python with precision and ease, saving countless hours of manual work.
@@ -25,7 +25,7 @@ At AI-TRANSLATE, we leverage cutting-edge AI technologies like the Ollama DeepSe
 
 ---
 
-### **Why?**
+## **Why?**
 
 > **Trusted by Developers Worldwide**
     Thousands of developers rely on AI-TRANSLATE for accurate and efficient code translation.
@@ -41,10 +41,5 @@ At AI-TRANSLATE, we leverage cutting-edge AI technologies like the Ollama DeepSe
 
 ---
 
-**Follow Us on Social Media:**
-
-- [LinkedIn](https://linkedin.com/company/example)
-
----
-
-© 2025 VA. All rights reserved.
+© 2025 VA. All rights reserved. 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/charudatta-korde/)[![Profile](https://img.shields.io/badge/Profile-View-green)](https://github.com/charudatta10)[![Portfolio](https://img.shields.io/badge/Portfolio-View-orange)](https://charudatta10.github.io/portfolio/)

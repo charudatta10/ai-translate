@@ -1,4 +1,4 @@
 - [Home](/)
 
-- [README](../README.md)
+- [README](./README.md)
 - [Reference](./README.md)
